@@ -40,7 +40,7 @@ public class myController {
         kurir.addAttribute("paket3", imglink);
         kurir.addAttribute("paket4", isikeempat);
 
-        return "viewpage";
+        return "view";
     }
 
 }
